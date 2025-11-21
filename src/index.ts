@@ -52,7 +52,7 @@ export default {
 		 Registration Closed
 		</h1>
 		<p style="font-family: 'Playfair Display', serif; font-weight: bold; font-size: 32px; line-height: 1; letter-spacing: 0%; text-align: center; color: black;">
-		  Stay tuned for upcoming events and announcements.
+		  Stay Tuned
 		</p>
 	  </div>
 	</div>
